@@ -11,6 +11,8 @@ llm:
   type: openai_chat # or azure_openai_chat
   model: gpt-4o-mini
   model_supports_json: true # recommended if this is available for your model.
+  # api_base: https://api.together.xyz/v1 # Descomentar esta para usar otros modelos de together.ai
+
   # audience: "https://cognitiveservices.azure.com/.default"
   # api_base: https://<instance>.openai.azure.com
   # api_version: 2024-02-15-preview

@@ -13,7 +13,7 @@ Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<e
 For each pair of related entities, extract the following information:
 - source_entity: name of the source entity, as identified in step 1
 - target_entity: name of the target entity, as identified in step 1
-- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_description: A short phrase (max 3 words) describing the type of relationship (e.g., "lives in", "feeds on", "located in"). Do NOT use full sentences.
 - relationship_strength: an integer score between 1 to 10, indicating strength of the relationship between the source entity and target entity
 Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
 
@@ -49,15 +49,15 @@ output:
 {record_delimiter}
 ("entity"{tuple_delimiter}ADOLESCENCIA{tuple_delimiter}BEHAVIOR{tuple_delimiter}La adolescencia es la etapa de desarrollo que sigue al nacimiento, donde la madre continúa cuidando de la cría.)
 {record_delimiter}
-("relationship"{tuple_delimiter}MADRE{tuple_delimiter}CRÍA{tuple_delimiter}La madre cuida de su cría inmediatamente después del nacimiento, mostrando un comportamiento protector y de atención constante.{tuple_delimiter}10)
+("relationship"{tuple_delimiter}MADRE{tuple_delimiter}CRÍA{tuple_delimiter}cuida de{tuple_delimiter}10)
 {record_delimiter}
-("relationship"{tuple_delimiter}NACIMIENTO{tuple_delimiter}MADRE{tuple_delimiter}El nacimiento de la cría marca el inicio del cuidado materno por parte de la madre.{tuple_delimiter}8)
+("relationship"{tuple_delimiter}NACIMIENTO{tuple_delimiter}MADRE{tuple_delimiter}marca el inicio de{tuple_delimiter}8)
 {record_delimiter}
-("relationship"{tuple_delimiter}NACIMIENTO{tuple_delimiter}CRÍA{tuple_delimiter}El nacimiento es el momento en que la cría llega al mundo y comienza su vida.{tuple_delimiter}9)
+("relationship"{tuple_delimiter}NACIMIENTO{tuple_delimiter}CRÍA{tuple_delimiter}comienzo vida de{tuple_delimiter}9)
 {record_delimiter}
-("relationship"{tuple_delimiter}ADOLESCENCIA{tuple_delimiter}MADRE{tuple_delimiter}La madre continúa cuidando de la cría durante la etapa de adolescencia.{tuple_delimiter}7)
+("relationship"{tuple_delimiter}ADOLESCENCIA{tuple_delimiter}MADRE{tuple_delimiter}continúa cuidando de{tuple_delimiter}7)
 {record_delimiter}
-("relationship"{tuple_delimiter}ADOLESCENCIA{tuple_delimiter}CRÍA{tuple_delimiter}La adolescencia es la etapa de desarrollo que sigue al nacimiento y donde la cría sigue bajo el cuidado de la madre.{tuple_delimiter}6)
+("relationship"{tuple_delimiter}ADOLESCENCIA{tuple_delimiter}CRÍA{tuple_delimiter}etapa que sigue de{tuple_delimiter}6)
 {completion_delimiter}
 #############################
 
@@ -100,11 +100,11 @@ output:
 {record_delimiter}
 ("entity"{tuple_delimiter}CARACTERÍSTICAS Y DETERMINACIONES BIOLÓGICAS{tuple_delimiter}BIOLOGICAL CHARACTERISTICS{tuple_delimiter}Las características y determinaciones biológicas de los pinnípedos abarcan aspectos como su reproducción, alimentación y adaptación a su entorno.)
 {record_delimiter}
-("relationship"{tuple_delimiter}LOBOS MARINOS DE UNO Y DOS PELOS{tuple_delimiter}OTARIA FLAVESCENS{tuple_delimiter}Los lobos marinos de uno y dos pelos incluyen a la especie Otaria flavescens, que es un ejemplo de esta categoría de pinnípedos{tuple_delimiter}8)
+("relationship"{tuple_delimiter}LOBOS MARINOS DE UNO Y DOS PELOS{tuple_delimiter}OTARIA FLAVESCENS{tuple_delimiter}incluyen a la especie{tuple_delimiter}8)
 {record_delimiter}
-("relationship"{tuple_delimiter}LOBOS MARINOS DE UNO Y DOS PELOS{tuple_delimiter}ARCTOCEPHALUS AUSTRALIS{tuple_delimiter}Los lobos marinos de uno y dos pelos también incluyen a Arctocephalus australis, que es otra especie de esta categoría{tuple_delimiter}8)
+("relationship"{tuple_delimiter}LOBOS MARINOS DE UNO Y DOS PELOS{tuple_delimiter}ARCTOCEPHALUS AUSTRALIS{tuple_delimiter}incluyen a la especie{tuple_delimiter}8)
 {record_delimiter}
-("relationship"{tuple_delimiter}ELEFANTES MARINOS{tuple_delimiter}MIROUNGA LEONINAS{tuple_delimiter}Los elefantes marinos son representados por la especie Mirounga leoninas, que es un ejemplo de esta categoría de pinnípedos{tuple_delimiter}8)
+("relationship"{tuple_delimiter}ELEFANTES MARINOS{tuple_delimiter}MIROUNGA LEONINAS{tuple_delimiter}representados por{tuple_delimiter}8)
 {completion_delimiter}
 #############################
 

@@ -20,7 +20,7 @@
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">0</data>
-      <data key="d5">cb1c632a941f4fc58836b74405534fc9</data>
+      <data key="d5">001fc9b13f294ba0a775224c7f525e93</data>
     </node>
     <node id="LOBOS MARINOS DE UNO Y DOS PELOS">
       <data key="d0">PINNIPED</data>
@@ -28,7 +28,7 @@
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">2</data>
       <data key="d4">1</data>
-      <data key="d5">6cd4c84477fd4e2cb550b41b955ea7da</data>
+      <data key="d5">c1aeb52acf3c4bfca9ded6ca699072fe</data>
     </node>
     <node id="OTARIA FLAVESCENS">
       <data key="d0">SPECIES</data>
@@ -36,31 +36,31 @@
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">1</data>
       <data key="d4">2</data>
-      <data key="d5">1733e39c80064491becf5181b9ac5f96</data>
+      <data key="d5">468f8e4fb63d451abb93916fcd09affd</data>
     </node>
     <node id="ARCTOCEPHALUS AUSTRALIS">
       <data key="d0">SPECIES</data>
-      <data key="d1">Arctocephalus australis es una especie de lobo marino que se encuentra en el hemisferio sur y pertenece a la familia de los Ot&#225;ridos. Esta especie es conocida por su capacidad de adaptaci&#243;n a diferentes h&#225;bitats marinos, lo que le permite prosperar en diversas condiciones ambientales. Adem&#225;s, Arctocephalus australis se caracteriza por su naturaleza gregaria, formando grupos sociales que facilitan su interacci&#243;n y comportamiento en el medio marino. Su piel, que presenta dos mantos, es otra de sus caracter&#237;sticas distintivas, lo que contribuye a su adaptaci&#243;n y supervivencia en el oc&#233;ano.</data>
+      <data key="d1">Arctocephalus australis es una especie de lobo marino que habita en el hemisferio sur y se caracteriza por su capacidad de adaptaci&#243;n a diversos h&#225;bitats marinos. Esta especie se distingue por su menor tama&#241;o en comparaci&#243;n con otras especies de lobos marinos, lo que la hace &#250;nica dentro de su grupo. Adem&#225;s, su piel es altamente valorada en la industria de la peleter&#237;a, lo que ha llevado a un inter&#233;s significativo en su conservaci&#243;n y manejo.</data>
       <data key="d2">15d13c04808623d890ded925639b2fb3,b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">2</data>
       <data key="d4">3</data>
-      <data key="d5">4fb5a42e5c1541319d6b13745b74f314</data>
+      <data key="d5">79651268b1fd407db0b079a8f3c82920</data>
     </node>
     <node id="ELEFANTES MARINOS">
       <data key="d0">PINNIPED</data>
-      <data key="d1">Los elefantes marinos, conocidos cient&#237;ficamente como Mirounga leonina, son grandes pinn&#237;pedos que se destacan por su considerable tama&#241;o y su distintivo hocico trompudo, adaptaciones que les permiten prosperar en su entorno acu&#225;tico. Estos mam&#237;feros marinos son tambi&#233;n reconocidos por su comportamiento migratorio, ya que se encuentran en las costas del hemisferio sur, donde realizan largas traves&#237;as en busca de alimento y lugares de reproducci&#243;n. Su biolog&#237;a y ecolog&#237;a los convierten en una especie fascinante dentro de los ecosistemas marinos.</data>
+      <data key="d1">Los elefantes marinos, conocidos cient&#237;ficamente como Mirounga leonina, son grandes pinn&#237;pedos carniceros y gregarios que se destacan por su considerable tama&#241;o y su distintivo hocico trompudo, que les confiere su nombre com&#250;n. Estos animales son conocidos por su comportamiento migratorio, encontr&#225;ndose principalmente en las costas del hemisferio sur. Su naturaleza social y su capacidad para realizar largas migraciones son caracter&#237;sticas clave que los definen dentro de su ecosistema marino.</data>
       <data key="d2">15d13c04808623d890ded925639b2fb3,b33d3bfaaf265d4d79a602c29129a296</data>
-      <data key="d3">4</data>
+      <data key="d3">5</data>
       <data key="d4">4</data>
-      <data key="d5">95f4061a1a7946458b2bbde7616a378e</data>
+      <data key="d5">0b19ad8ed31d4e3ea4ee8eac3a1c3504</data>
     </node>
     <node id="MIROUNGA LEONINAS">
       <data key="d0">SPECIES</data>
-      <data key="d1">Mirounga leonina es una especie de elefante marino que se caracteriza por su gran tama&#241;o y su notable adaptaci&#243;n a la vida acu&#225;tica, aunque su locomoci&#243;n en tierra es torpe. Esta especie se encuentra en el hemisferio sur, donde habita principalmente en aguas fr&#237;as. Su capacidad para sobrevivir en ambientes marinos extremos resalta su importancia dentro de los ecosistemas marinos, donde juega un papel crucial en la cadena alimentaria y en la din&#225;mica de las comunidades biol&#243;gicas.</data>
-      <data key="d2">15d13c04808623d890ded925639b2fb3,b33d3bfaaf265d4d79a602c29129a296</data>
+      <data key="d1">Mirounga leoninas es una especie de elefante marino que se encuentra en el hemisferio sur, conocida por su gran tama&#241;o y su h&#225;bitat en aguas fr&#237;as.</data>
+      <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">1</data>
       <data key="d4">5</data>
-      <data key="d5">0140fb089ba846668e90c42786b3e5f4</data>
+      <data key="d5">9b629a78b6774ddaa33c11d72304a9f2</data>
     </node>
     <node id="CONSIDERACIONES GENERALES">
       <data key="d0">NONE</data>
@@ -68,7 +68,7 @@
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">6</data>
-      <data key="d5">1cc2a7254a19427b84a6bf590309847d</data>
+      <data key="d5">4f40d50df916498aa3fcb1f4ac720bde</data>
     </node>
     <node id="CARACTER&#205;STICAS Y DETERMINACIONES BIOL&#211;GICAS">
       <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
@@ -76,15 +76,15 @@
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">7</data>
-      <data key="d5">386c9eda7b2747d8b9c05aba78478dec</data>
+      <data key="d5">97c51fd89c054c28889ca60ad14cef46</data>
     </node>
     <node id="UN&#205;PARO">
       <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">El t&#233;rmino "un&#237;paro" se refiere a un tipo de reproducci&#243;n en la que las hembras dan a luz a una sola cr&#237;a. Este comportamiento es caracter&#237;stico de ciertos mam&#237;feros marinos, espec&#237;ficamente los pinn&#237;pedos, como los lobos marinos y los elefantes marinos. A diferencia de otras especies que pueden tener m&#250;ltiples cr&#237;as en una sola camada, los un&#237;paros se distinguen por su capacidad de dar a luz &#250;nicamente a una cr&#237;a a la vez.</data>
-      <data key="d2">15d13c04808623d890ded925639b2fb3,b33d3bfaaf265d4d79a602c29129a296</data>
+      <data key="d1">El t&#233;rmino un&#237;paro se refiere a los mam&#237;feros que dan a luz a una sola cr&#237;a a la vez, como es el caso de los lobos marinos.</data>
+      <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">8</data>
-      <data key="d5">9b75d6c4ff284ec89caa05ca711ef6f8</data>
+      <data key="d5">feea0dfc214c4333a38f44366081b0bf</data>
     </node>
     <node id="FAMILIA DE LOS OT&#193;RIDOS">
       <data key="d0">NONE</data>
@@ -92,7 +92,7 @@
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">9</data>
-      <data key="d5">63acf2d1d99b40bd838642d34a0b5ff5</data>
+      <data key="d5">1f79d1bc489f4e7ebb4dea2e35eb72c3</data>
     </node>
     <node id="NATURALEZA GREGARIA">
       <data key="d0">BEHAVIOR</data>
@@ -100,15 +100,15 @@
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">10</data>
-      <data key="d5">55761e638b5f4e7395834ad1fda845f3</data>
+      <data key="d5">7ac1011fff84463692bdcebf2527fc25</data>
     </node>
     <node id="CARACTER&#205;STICAS BIO-MORFOL&#211;GICAS">
       <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">Las caracter&#237;sticas bio-morfol&#243;gicas son atributos f&#237;sicos que definen la forma y estructura de los lobos marinos, adaptados a su entorno.</data>
+      <data key="d1">Las caracter&#237;sticas bio-morfol&#243;gicas son atributos f&#237;sicos que definen a una especie, como la forma y estructura del cuerpo del lobo marino de un pelo.</data>
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">11</data>
-      <data key="d5">ca0726d5dbbd46b7a541f58d556fdc71</data>
+      <data key="d5">73fd16b7764f4255b6aafb219a1c48e0</data>
     </node>
     <node id="ADAPTACI&#211;N AL MEDIO ACU&#193;TICO-TERRESTRE">
       <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
@@ -116,640 +116,556 @@
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">12</data>
-      <data key="d5">c793807498844a7e84dc14770fef8d03</data>
-    </node>
-    <node id="MIEMBROS REDUCIDOS">
-      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">Los miembros reducidos de los lobos marinos son sus aletas, que han evolucionado para facilitar la locomoci&#243;n en el agua.</data>
-      <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
-      <data key="d3">0</data>
-      <data key="d4">13</data>
-      <data key="d5">bfb8bafd27d6492f953fbf54f94c0333</data>
+      <data key="d5">3eec6d89123c49ac84120d2e7a31b327</data>
     </node>
     <node id="LOCOMOCI&#211;N TERRESTRE">
       <data key="d0">BEHAVIOR</data>
-      <data key="d1">La locomoci&#243;n terrestre de los lobos marinos es lenta y requiere un gran esfuerzo debido a la estructura de sus miembros.</data>
+      <data key="d1">La locomoci&#243;n terrestre es el modo en que los lobos marinos se mueven en tierra, que es m&#225;s lenta y requiere m&#225;s esfuerzo en comparaci&#243;n con su movimiento en el agua.</data>
+      <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
+      <data key="d3">0</data>
+      <data key="d4">13</data>
+      <data key="d5">59bda8395a204efc848c598646ff6362</data>
+    </node>
+    <node id="LOCOMOCI&#211;N EN AGUA">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">La locomoci&#243;n en agua es el comportamiento de los lobos marinos al nadar, donde muestran gran agilidad y destreza.</data>
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">14</data>
-      <data key="d5">b250d8705cef47288aa253c6b97c6c79</data>
+      <data key="d5">d37b5c45e11f4d04a95ac83385a7e083</data>
     </node>
-    <node id="LOCOMOCI&#211;N ACU&#193;TICA">
-      <data key="d0">BEHAVIOR</data>
-      <data key="d1">La locomoci&#243;n acu&#225;tica de los lobos marinos es &#225;gil y r&#225;pida, permiti&#233;ndoles moverse con destreza en el agua.</data>
+    <node id="DIFERENCIAS DE TALLE Y VOLUMEN">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Las diferencias de talle y volumen entre machos y hembras de lobos marinos se observan en sus caracter&#237;sticas f&#237;sicas, como el tama&#241;o de la cabeza y el cuello.</data>
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">15</data>
-      <data key="d5">32962a6cc24448e4b9a2d9f9c05fe548</data>
-    </node>
-    <node id="DIFERENCIAS SEXUALES">
-      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">Las diferencias sexuales en los lobos marinos se manifiestan en el tama&#241;o y caracter&#237;sticas f&#237;sicas entre machos y hembras.</data>
-      <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
-      <data key="d3">0</data>
-      <data key="d4">16</data>
-      <data key="d5">f23d578596554141b10a39051c61e71f</data>
+      <data key="d5">902d923b40af4daba5f279b63967b24a</data>
     </node>
     <node id="MELENA">
       <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">La melena es el aspecto peludo que presentan los machos adultos de los lobos marinos, especialmente alrededor del cuello.</data>
+      <data key="d1">La melena es el aspecto peludo que presentan los machos adultos de los lobos marinos en la regi&#243;n del cuello, que se vuelve m&#225;s notable con la edad.</data>
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
-      <data key="d4">17</data>
-      <data key="d5">f892af2fee5c444c8df33217e512bea9</data>
+      <data key="d4">16</data>
+      <data key="d5">928c0614bb0649bb9e00fa90148ef583</data>
     </node>
     <node id="COLLAR PEL&#205;FERO">
       <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">El collar pel&#237;fero es una caracter&#237;stica notable en los machos adultos de lobos marinos, que se vuelve m&#225;s prominente con la edad.</data>
+      <data key="d1">El collar pel&#237;fero es una caracter&#237;stica distintiva de los machos adultos de lobos marinos, que consiste en un &#225;rea de pelos m&#225;s largos alrededor del cuello.</data>
+      <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
+      <data key="d3">0</data>
+      <data key="d4">17</data>
+      <data key="d5">615c710bafd04237944f8162f17af70d</data>
+    </node>
+    <node id="AP&#201;NDICE ATROFIADO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El ap&#233;ndice atrofiado es una peque&#241;a cola que presentan los lobos marinos, que no supera los 8 cent&#237;metros de longitud.)&lt;|COMPLETE|&gt;</data>
       <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
       <data key="d3">0</data>
       <data key="d4">18</data>
-      <data key="d5">1349b2b8605a482397c707f1ff08e84a</data>
-    </node>
-    <node id="BIGOTES">
-      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">Los bigotes son estructuras filiformes y resistentes que ayudan a los lobos marinos a percibir su entorno.</data>
-      <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
-      <data key="d3">0</data>
-      <data key="d4">19</data>
-      <data key="d5">07a83d15c948483b9c3b4eecab0cefcd</data>
-    </node>
-    <node id="COLA DIMINUTA">
-      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">La cola diminuta es un ap&#233;ndice atrofiado presente en los lobos marinos, que no supera los 8 cent&#237;metros de longitud.)&lt;|COMPLETE|&gt;</data>
-      <data key="d2">b33d3bfaaf265d4d79a602c29129a296</data>
-      <data key="d3">0</data>
-      <data key="d4">20</data>
-      <data key="d5">e06b0f7e6b094c44a5ca5cda7605472d</data>
+      <data key="d5">d2956bb87a8542f2b8be2898dba0981d</data>
     </node>
     <node id="COLONIAS DE PINN&#205;PEDOS">
       <data key="d0">HABITAT</data>
       <data key="d1">Las colonias de pinn&#237;pedos son grupos de estos mam&#237;feros marinos que se encuentran en &#225;reas espec&#237;ficas del litoral mar&#237;timo e islas adyacentes, donde se agrupan para reproducirse y descansar.</data>
       <data key="d2">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d3">2</data>
-      <data key="d4">21</data>
-      <data key="d5">9f9a1745f175470d9c5be95d6aafcbf4</data>
+      <data key="d3">3</data>
+      <data key="d4">19</data>
+      <data key="d5">eccdba6365e74596acb3789def648b74</data>
     </node>
     <node id="LOBOS MARINOS DE DOS PELOS">
       <data key="d0">PINNIPED</data>
-      <data key="d1">El lobo marino de dos pelos, Arctocephalus australis, es un pinn&#237;pedo que se caracteriza por su menor tama&#241;o en comparaci&#243;n con el lobo marino de un pelo, y su piel es muy apreciada en peleter&#237;a.</data>
+      <data key="d1">El lobo marino de dos pelos, Arctocephalus australis, es un pinn&#237;pedo carnicero y gregario, caracterizado por su menor tama&#241;o y su piel apreciada en peleter&#237;a, que presenta dos mantos de pelo.</data>
       <data key="d2">15d13c04808623d890ded925639b2fb3</data>
       <data key="d3">4</data>
-      <data key="d4">22</data>
-      <data key="d5">9fa6b048c9674fbfa0ae5c5cafde6a5b</data>
+      <data key="d4">20</data>
+      <data key="d5">f3565e4298ea4f6d990c6d76e6282233</data>
+    </node>
+    <node id="MIROUNGA LEONINA">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Mirounga leonina es una especie de elefante marino que se caracteriza por su gran tama&#241;o y su adaptaci&#243;n a la vida acu&#225;tica, aunque su locomoci&#243;n en tierra es torpe.</data>
+      <data key="d2">15d13c04808623d890ded925639b2fb3</data>
+      <data key="d3">1</data>
+      <data key="d4">21</data>
+      <data key="d5">3e8f9f4af92340e4b0715b74538b1c94</data>
     </node>
     <node id="CARACTER&#205;STICAS MORFOL&#211;GICAS">
       <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">Las caracter&#237;sticas morfol&#243;gicas de los pinn&#237;pedos incluyen diferencias notables entre machos y hembras, as&#237; como adaptaciones a su entorno acu&#225;tico.</data>
+      <data key="d1">Las caracter&#237;sticas morfol&#243;gicas de los pinn&#237;pedos incluyen diferencias notables entre machos y hembras, as&#237; como adaptaciones a la vida acu&#225;tica y terrestre.</data>
       <data key="d2">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d3">1</data>
-      <data key="d4">23</data>
-      <data key="d5">9a60d1d352c94afd8f6380e6b092c7d2</data>
-    </node>
-    <node id="MORFOLOG&#205;A">
-      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">La morfolog&#237;a de los pinn&#237;pedos incluye caracter&#237;sticas f&#237;sicas que los distinguen, como el tama&#241;o, la forma del cuerpo y la distribuci&#243;n del pelaje.</data>
-      <data key="d2">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d3">1</data>
-      <data key="d4">24</data>
-      <data key="d5">acce78e5fde94f33b4a83c47e5993563</data>
-    </node>
-    <node id="PERSECUCI&#211;N CONSTANTE">
-      <data key="d0">CONSERVATION STATUS</data>
-      <data key="d1">La persecuci&#243;n constante de los lobos marinos de dos pelos debido a la caza por su piel ha afectado notablemente su poblaci&#243;n y conservaci&#243;n.</data>
-      <data key="d2">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d3">1</data>
-      <data key="d4">25</data>
-      <data key="d5">6d665ae72b06406397fe5eef65edd40e</data>
+      <data key="d3">2</data>
+      <data key="d4">22</data>
+      <data key="d5">8f217af411d54fab9aa30ad8169582dc</data>
     </node>
     <node id="DISTRIBUCI&#211;N GEOGR&#193;FICA">
       <data key="d0">HABITAT</data>
-      <data key="d1">La distribuci&#243;n geogr&#225;fica de los pinn&#237;pedos se encuentra en zonas espec&#237;ficas del litoral mar&#237;timo e islas adyacentes, donde establecen colonias.</data>
+      <data key="d1">La distribuci&#243;n geogr&#225;fica de los pinn&#237;pedos se encuentra en zonas espec&#237;ficas del litoral mar&#237;timo, delimitadas por coordenadas de latitud sur.</data>
+      <data key="d2">15d13c04808623d890ded925639b2fb3</data>
+      <data key="d3">1</data>
+      <data key="d4">23</data>
+      <data key="d5">e192c9f4924f4af1a733910403ad363c</data>
+    </node>
+    <node id="MACHOS">
+      <data key="d0">MAMMAL</data>
+      <data key="d1">Los machos de los pinn&#237;pedos suelen presentar caracter&#237;sticas morfol&#243;gicas que los distinguen, como un mayor tama&#241;o y fuerza en comparaci&#243;n con las hembras.</data>
+      <data key="d2">15d13c04808623d890ded925639b2fb3</data>
+      <data key="d3">1</data>
+      <data key="d4">24</data>
+      <data key="d5">33d9c992bd55444d8b6bcad2ed70c40e</data>
+    </node>
+    <node id="HEMBRAS">
+      <data key="d0">MAMMAL</data>
+      <data key="d1">Las hembras de los pinn&#237;pedos son generalmente m&#225;s peque&#241;as que los machos y presentan diferencias morfol&#243;gicas notables, adaptadas a su rol en la reproducci&#243;n y cuidado de las cr&#237;as.</data>
+      <data key="d2">15d13c04808623d890ded925639b2fb3</data>
+      <data key="d3">1</data>
+      <data key="d4">25</data>
+      <data key="d5">70cb1fd1293142c484aaf8dafc1a4dd4</data>
+    </node>
+    <node id="PERSECUCI&#211;N CONSTANTE">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">La persecuci&#243;n constante de los lobos marinos de dos pelos debido a su piel ha llevado a una disminuci&#243;n en su poblaci&#243;n y ha generado la necesidad de prohibiciones de caza.</data>
       <data key="d2">15d13c04808623d890ded925639b2fb3</data>
       <data key="d3">1</data>
       <data key="d4">26</data>
-      <data key="d5">6393fad05d7b4fd19cbc1385b902e924</data>
+      <data key="d5">faae48f4796d4e43b82429dcb0a6e9ef</data>
     </node>
-    <node id="CARNICERO">
-      <data key="d0">BEHAVIOR</data>
-      <data key="d1">El comportamiento carnicero de los pinn&#237;pedos indica su dieta basada en la caza de otros animales marinos, lo que es com&#250;n en especies como los lobos marinos y los elefantes marinos.</data>
+    <node id="ADAPTACI&#211;N A LA VIDA ACU&#193;TICA">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La adaptaci&#243;n a la vida acu&#225;tica en los pinn&#237;pedos se manifiesta en su morfolog&#237;a, que les permite moverse con mayor facilidad en el agua que en tierra.</data>
       <data key="d2">15d13c04808623d890ded925639b2fb3</data>
       <data key="d3">1</data>
       <data key="d4">27</data>
-      <data key="d5">155f99db0ac84a90b4aa4c0ef96becf7</data>
-    </node>
-    <node id="PABELL&#211;N AURICULAR EXTERNO">
-      <data key="d0" />
-      <data key="d1" />
-      <data key="d2">15d13c04808623d890ded925639b2fb3,da50bef77bffe645acbf974061b2183c</data>
-      <data key="d3">2</data>
-      <data key="d4">28</data>
-      <data key="d5">40c5c058bb4541c4a5a2d14c7aec11fa</data>
+      <data key="d5">e60346de711049f5878f3f56293017a5</data>
     </node>
     <node id="ELEFANTE MARINO">
       <data key="d0">PINNIPED</data>
-      <data key="d1">El elefante marino se desenvuelve con bastante habilidad, aunque no es un animal &#225;gil ni veloz. Se caracteriza por la ausencia completa del pabell&#243;n auricular externo y es una especie con tendencia a desaparecer de nuestras costas e islas adyacentes.</data>
+      <data key="d1">El elefante marino se desenvuelve con bastante habilidad, aunque no llega a ser un animal &#225;gil ni veloz. Se trata de una especie con tendencia a desaparecer de nuestras costas e islas adyacentes, y su caza e industrializaci&#243;n est&#225;n sujetas a reglamentaciones vigentes.</data>
       <data key="d2">da50bef77bffe645acbf974061b2183c</data>
       <data key="d3">3</data>
+      <data key="d4">28</data>
+      <data key="d5">97cf520fd87c405da48a2ca8222b2750</data>
+    </node>
+    <node id="COLONIA">
+      <data key="d0">HABITAT</data>
+      <data key="d1">La colonia de elefantes marinos se encuentra ubicada en los 42&#176;07' de latitud sur, cerca de Punta Norte, en la pen&#237;nsula Vald&#233;s, y est&#225; constituida por pocos ejemplares de ambos sexos.</data>
+      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
+      <data key="d3">1</data>
       <data key="d4">29</data>
-      <data key="d5">55ee4cb9520947228a7f1bb5db0a2e75</data>
-    </node>
-    <node id="CONSERVACI&#211;N DE LA ESPECIE">
-      <data key="d0">CONSERVATION STATUS</data>
-      <data key="d1">La conservaci&#243;n de la especie de elefante marino est&#225; sujeta a reglamentaciones vigentes que requieren un permiso previo para su caza e industrializaci&#243;n, permiti&#233;ndose solo en lugares donde las poblaciones sean suficientes.</data>
-      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d3">1</data>
-      <data key="d4">30</data>
-      <data key="d5">e4e890298cca4187aa2a0cc68a07719f</data>
-    </node>
-    <node id="COLONIA DE F&#211;CIDOS">
-      <data key="d0">MARINE ECOSYSTEM</data>
-      <data key="d1">La colonia de f&#243;cidos se encuentra ubicada en las costas, constituida por pocos ejemplares de ambos sexos, y es la &#250;nica conocida en la regi&#243;n.</data>
-      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d3">1</data>
-      <data key="d4">31</data>
-      <data key="d5">7404efa1b7e64a12989e7c8ce3853eff</data>
+      <data key="d5">602248535cc94241bb983c52e0793567</data>
     </node>
     <node id="LOBOS MARINOS DE UN PELO">
       <data key="d0">PINNIPED</data>
-      <data key="d1">Los lobos marinos de un pelo son un tipo de pinn&#237;pedo que tiene un per&#237;odo de gestaci&#243;n de alrededor de 340 d&#237;as y presentan comportamientos espec&#237;ficos durante el parto.</data>
+      <data key="d1">Los lobos marinos de un pelo son un&#237;paros que tienen un per&#237;odo de gestaci&#243;n de alrededor de 340 d&#237;as, con un lapso &#225;lgido de alumbramientos que se extiende desde el 15 hasta el 25 de enero.</data>
       <data key="d2">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d6">1</data>
+      <data key="d6">0</data>
       <data key="d7">0</data>
-      <data key="d3">3</data>
-      <data key="d4">32</data>
-      <data key="d5">0d21b4d6a9f8485781ebc7952753aa83</data>
+      <data key="d3">5</data>
+      <data key="d4">30</data>
+      <data key="d5">7af1782b6162463496a86e644b844516</data>
     </node>
     <node id="NACIMIENTO">
       <data key="d0">REPRODUCTION</data>
-      <data key="d1">El nacimiento en los lobos marinos de un pelo se inicia con la aparici&#243;n de la bolsa a trav&#233;s de los &#243;rganos genitales externos y dura aproximadamente 4 minutos.</data>
+      <data key="d1">El nacimiento es el proceso en el que la cr&#237;a de los lobos marinos de un pelo llega al mundo, comenzando con la aparici&#243;n de la bolsa a trav&#233;s de los &#243;rganos genitales externos.</data>
       <data key="d2">da50bef77bffe645acbf974061b2183c</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">31</data>
+      <data key="d5">c6310084fdde4610bb41fe549e554321</data>
+    </node>
+    <node id="CR&#205;A">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La cr&#237;a es el reci&#233;n nacido de los lobos marinos de un pelo, que permanece echada durante algunos minutos tras el nacimiento. Despu&#233;s de este breve periodo, la madre transporta a la cr&#237;a, que comienza a buscar alimento instintivamente alrededor de media hora despu&#233;s de nacer. Este comportamiento refleja la adaptaci&#243;n de la especie para asegurar la supervivencia de los reci&#233;n nacidos en su entorno marino.</data>
+      <data key="d2">71e57b98670eda5a84f77ea689e3b89c,da50bef77bffe645acbf974061b2183c</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">7</data>
+      <data key="d4">32</data>
+      <data key="d5">ce1a14118dd944c486490a07d3095870</data>
+    </node>
+    <node id="MADRE">
+      <data key="d0">MAMMAL</data>
+      <data key="d1">La madre es la hembra de los lobos marinos de un pelo, conocida por su dedicaci&#243;n y cuidado hacia su cr&#237;a. Este comportamiento maternal incluye permanecer al lado de su cr&#237;a, amamantarla y transportarla con los dientes, lo que demuestra un fuerte instinto protector y de atenci&#243;n. La madre juega un papel crucial en la supervivencia y desarrollo de su descendencia, asegurando que reciba la protecci&#243;n y los cuidados necesarios en su entorno marino.</data>
+      <data key="d2">71e57b98670eda5a84f77ea689e3b89c,da50bef77bffe645acbf974061b2183c</data>
       <data key="d6">1</data>
       <data key="d7">0</data>
       <data key="d3">4</data>
       <data key="d4">33</data>
-      <data key="d5">fd359de4a25b4a8f931e1d19b789cb5c</data>
+      <data key="d5">2b6f2f29c14740e5a2aad7a540ee6877</data>
     </node>
-    <node id="CR&#205;A">
-      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">La cr&#237;a es el reci&#233;n nacido que, tras su nacimiento, es transportado por su madre y comienza a buscar alimento instintivamente alrededor de media hora despu&#233;s de nacer. Desde el momento del nacimiento, la cr&#237;a recibe atenci&#243;n constante de su madre, quien permanece a su lado y la transporta, asegurando as&#237; su bienestar y supervivencia en las primeras etapas de vida.</data>
-      <data key="d2">71e57b98670eda5a84f77ea689e3b89c,da50bef77bffe645acbf974061b2183c</data>
-      <data key="d6">0</data>
-      <data key="d7">0</data>
-      <data key="d3">4</data>
-      <data key="d4">34</data>
-      <data key="d5">e1bc87ebfeb343f58361156b54776ceb</data>
-    </node>
-    <node id="MADRE">
-      <data key="d0">MAMMAL</data>
-      <data key="d1">La entidad "MADRE" se refiere a la hembra que desempe&#241;a un papel crucial en el cuidado de su cr&#237;a. Este cuidado incluye amamantar a la cr&#237;a y transportarla utilizando los dientes, lo que demuestra un comportamiento protector y de atenci&#243;n constante. La madre muestra estos comportamientos especialmente durante el per&#237;odo de gestaci&#243;n y despu&#233;s del nacimiento, asegurando as&#237; la supervivencia y el bienestar de su descendencia.</data>
-      <data key="d2">71e57b98670eda5a84f77ea689e3b89c,da50bef77bffe645acbf974061b2183c</data>
-      <data key="d6">2</data>
-      <data key="d7">0</data>
-      <data key="d3">10</data>
-      <data key="d4">35</data>
-      <data key="d5">de868917e7a14743928f213a92d5e28b</data>
-    </node>
-    <node id="PER&#205;ODO DE GESTACI&#211;N">
-      <data key="d0">REPRODUCTION</data>
-      <data key="d1">El per&#237;odo de gestaci&#243;n de los lobos marinos de un pelo es de alrededor de 340 d&#237;as, con variaciones propias y comunes en la mayor&#237;a de los mam&#237;feros.</data>
+    <node id="COSTAS E ISLAS ADYACENTES">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las costas e islas adyacentes son el h&#225;bitat natural del elefante marino, donde se ha comprobado su tendencia a desaparecer.</data>
       <data key="d2">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d6">1</data>
-      <data key="d7">0</data>
       <data key="d3">1</data>
-      <data key="d4">36</data>
-      <data key="d5">d0264a0fd045419da59ef599cec0186c</data>
+      <data key="d4">34</data>
+      <data key="d5">e7aaf89c21fa4324bf492ca6ad890534</data>
+    </node>
+    <node id="PERMISO">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">El permiso es un requisito necesario para la caza e industrializaci&#243;n del elefante marino, regulado por normativas vigentes para garantizar la conservaci&#243;n de la especie.</data>
+      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
+      <data key="d3">1</data>
+      <data key="d4">35</data>
+      <data key="d5">6fe60551e5ed41c1b24d7e2c595c5106</data>
     </node>
     <node id="ALUMBRAMIENTOS">
       <data key="d0">REPRODUCTION</data>
-      <data key="d1">Los alumbramientos en los lobos marinos de un pelo se producen entre el 15 y el 25 de enero, aunque los primeros nacimientos pueden comenzar a mediados de diciembre. Este proceso de alumbramiento, que se refiere al nacimiento de las cr&#237;as, generalmente se extiende desde mediados de diciembre hasta la primera quincena de febrero. Por lo tanto, se puede concluir que el periodo de alumbramientos de los lobos marinos de un pelo abarca un rango que inicia a mediados de diciembre y se prolonga hasta finales de enero, con un enfoque particular en la segunda quincena de enero.</data>
-      <data key="d2">71e57b98670eda5a84f77ea689e3b89c,da50bef77bffe645acbf974061b2183c</data>
-      <data key="d6">1</data>
-      <data key="d7">0</data>
-      <data key="d3">2</data>
-      <data key="d4">37</data>
-      <data key="d5">eecfd674c2eb4b76a1f1c73bd68273a3</data>
-    </node>
-    <node id="EXCITABILIDAD">
-      <data key="d0">BEHAVIOR</data>
-      <data key="d1">La excitabilidad es una de las se&#241;ales m&#225;s evidentes que indican que una hembra est&#225; en v&#237;speras de parir, manifest&#225;ndose a trav&#233;s de ri&#241;as con otras hembras.</data>
+      <data key="d1">Los alumbramientos son el proceso de nacimiento de las cr&#237;as de los lobos marinos de un pelo, que se extiende desde mediados de diciembre hasta la primera quincena de febrero.</data>
       <data key="d2">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d3">0</data>
-      <data key="d4">38</data>
-      <data key="d5">543f3ba6418b4ba182138cf1c60309f3</data>
-    </node>
-    <node id="CUIDADO MATERNO">
-      <data key="d0">BEHAVIOR</data>
-      <data key="d1">El cuidado materno comienza inmediatamente despu&#233;s del nacimiento, donde la madre permanece al lado de su cr&#237;a, mostrando comportamientos protectores y de atenci&#243;n constante.</data>
-      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d6">2</data>
-      <data key="d7">0</data>
-      <data key="d3">1</data>
-      <data key="d4">39</data>
-      <data key="d5">a6902af01902442692689a6dd87a85ad</data>
-    </node>
-    <node id="REUNI&#211;N CON CR&#205;AS">
-      <data key="d0">BEHAVIOR</data>
-      <data key="d1">La reuni&#243;n entre la madre y sus cr&#237;as se logra mediante recursos como los "balidos" y la "olfaci&#243;n", que permiten la identificaci&#243;n entre ambos.</data>
-      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d6">2</data>
-      <data key="d7">0</data>
-      <data key="d3">1</data>
-      <data key="d4">40</data>
-      <data key="d5">3d511b31cefc416b8a293ea421d3519b</data>
-    </node>
-    <node id="PARTO">
-      <data key="d0">REPRODUCTION</data>
-      <data key="d1">El "PARTO" en los lobos marinos de un pelo es un proceso crucial en la reproducci&#243;n de esta especie. Se inicia con la aparici&#243;n de la bolsa a trav&#233;s de los &#243;rganos genitales externos, un evento que dura aproximadamente 4 minutos. Este momento marca el nacimiento de la cr&#237;a, momento en el cual la madre comienza a cuidar de su descendencia, iniciando el proceso de lactancia. La atenci&#243;n materna es fundamental para el desarrollo y supervivencia de la cr&#237;a en su entorno marino.</data>
-      <data key="d2">71e57b98670eda5a84f77ea689e3b89c,da50bef77bffe645acbf974061b2183c</data>
-      <data key="d6">1</data>
-      <data key="d7">0</data>
-      <data key="d3">4</data>
-      <data key="d4">41</data>
-      <data key="d5">d4bd5a9ca7734e4e83406014fccaef74</data>
-    </node>
-    <node id="DOLOR">
-      <data key="d0">BEHAVIOR</data>
-      <data key="d1">Los dolores del parto son evidentes cuando la hembra se yergue bruscamente y comienza a girar ininterrumpidamente, mostrando un comportamiento caracter&#237;stico en este proceso.</data>
-      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d6">2</data>
-      <data key="d7">0</data>
-      <data key="d3">1</data>
-      <data key="d4">42</data>
-      <data key="d5">20955b27274e460790a59bebc395e283</data>
-    </node>
-    <node id="ALIMENTACI&#211;N">
-      <data key="d0">BEHAVIOR</data>
-      <data key="d1">La alimentaci&#243;n de la cr&#237;a es un comportamiento instintivo que comienza poco despu&#233;s del nacimiento, donde la madre la ayuda a encontrar las mamas para amamantar.</data>
-      <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
       <data key="d3">1</data>
-      <data key="d4">43</data>
-      <data key="d5">86785fc5dd374de3a0ec4a535fa14094</data>
+      <data key="d4">36</data>
+      <data key="d5">61c1e51f321741e3893aead15895cbe2</data>
     </node>
-    <node id="AMAMANTAMIENTO">
+    <node id="EXCITABILIDAD">
       <data key="d0">BEHAVIOR</data>
-      <data key="d1">El amamantamiento es el proceso en el que la madre proporciona leche a su cr&#237;a, ocupando gran parte del d&#237;a durante los primeros meses de vida.</data>
-      <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d6">2</data>
+      <data key="d1">La excitabilidad es una manifestaci&#243;n caracter&#237;stica de las hembras de lobos marinos de un pelo en v&#237;speras de parir, que se manifiesta en ri&#241;as con otras hembras.</data>
+      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
+      <data key="d6">0</data>
       <data key="d7">0</data>
       <data key="d3">1</data>
-      <data key="d4">44</data>
-      <data key="d5">2eec487a52664ac5b891a3c9b7bd5777</data>
+      <data key="d4">37</data>
+      <data key="d5">9f5e4c038012486cac06d45f74beea4a</data>
     </node>
-    <node id="PUERPERIO">
+    <node id="C&#218;BITO-VENTRAL">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">La posici&#243;n c&#250;bito-ventral es la preferida por las hembras de lobos marinos de un pelo durante los momentos de reposo, especialmente en la etapa de gravidez.</data>
+      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">38</data>
+      <data key="d5">506edf725e074ee18e892fe78a299650</data>
+    </node>
+    <node id="LAGRIMEO">
       <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">El puerperio es el periodo de recuperaci&#243;n de la madre despu&#233;s del parto, que es sorprendentemente r&#225;pido, permiti&#233;ndole reanudar su actividad sexual pronto.</data>
-      <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d6">2</data>
+      <data key="d1">El lagrimeo intenso es un signo inconfundible de la avanzada gravidez en las hembras de lobos marinos de un pelo, que puede llegar a ba&#241;ar la cara del animal.</data>
+      <data key="d2">da50bef77bffe645acbf974061b2183c</data>
+      <data key="d6">0</data>
       <data key="d7">0</data>
       <data key="d3">1</data>
-      <data key="d4">45</data>
-      <data key="d5">01c92b3630b549218b3a0bc1d3137e49</data>
+      <data key="d4">39</data>
+      <data key="d5">49e4cbd1815040e9bf3a9cb35a705c52</data>
     </node>
-    <node id="GESTACI&#211;N">
-      <data key="d0">REPRODUCTION</data>
-      <data key="d1">La gestaci&#243;n es el periodo de aproximadamente 340 d&#237;as que precede al parto, durante el cual la madre lleva a su cr&#237;a en desarrollo.</data>
+    <node id="ALIMENTACI&#211;N">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">La alimentaci&#243;n de la cr&#237;a se basa en la leche materna, que es densa y blanquecina, y se prolonga hasta aproximadamente los seis meses de edad.</data>
       <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
       <data key="d6">1</data>
       <data key="d7">0</data>
       <data key="d3">1</data>
-      <data key="d4">46</data>
-      <data key="d5">f7639cbb017b48a2b2b4deda311eec86</data>
+      <data key="d4">40</data>
+      <data key="d5">ef5f05d9d2784d49bc8c31867d794081</data>
+    </node>
+    <node id="PARTO">
+      <data key="d0">REPRODUCTION</data>
+      <data key="d1">El parto es el proceso en el que la madre da a luz a la cr&#237;a, que ocurre generalmente entre mediados de diciembre y la primera quincena de febrero.</data>
+      <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">41</data>
+      <data key="d5">2a3d93a1b9fb4a4198b849e424adf9b7</data>
+    </node>
+    <node id="PUERPERIO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El puerperio es el periodo de recuperaci&#243;n de la madre despu&#233;s del parto, que es sorprendentemente r&#225;pido, permiti&#233;ndole reanudar su actividad sexual.</data>
+      <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">7e683dad7882478b95df4e1c3c1e383b</data>
     </node>
     <node id="LOBATO">
       <data key="d0">MAMMAL</data>
-      <data key="d1">El lobato es el t&#233;rmino utilizado para referirse a la cr&#237;a de lobo marino, que inicia sus primeros intentos en el agua alrededor de los sesenta d&#237;as de edad.</data>
+      <data key="d1">El lobato es el joven de la especie que inicia sus primeros intentos en el agua alrededor de los sesenta d&#237;as de edad.</data>
       <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d3">2</data>
-      <data key="d4">47</data>
-      <data key="d5">d32f4bc5913a4adeb7b4d62653b7d7e9</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">b291647a612d4b76bb4965aee8e828cb</data>
     </node>
     <node id="LOBEZNO">
       <data key="d0">MAMMAL</data>
-      <data key="d1">El lobezno es un t&#233;rmino que se refiere a los j&#243;venes lobos marinos, que pueden ser arrastrados al agua accidentalmente poco despu&#233;s de nacer.</data>
+      <data key="d1">El lobezno es un t&#233;rmino que se refiere a los j&#243;venes lobos marinos que pueden ser arrastrados al agua accidentalmente o forzadamente.</data>
       <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
       <data key="d3">1</data>
-      <data key="d4">48</data>
-      <data key="d5">92fed525dab64c459fcfacac520af4ae</data>
+      <data key="d4">44</data>
+      <data key="d5">a47fc96b700d4c5c94e7cfd13e7d2fc0</data>
     </node>
-    <node id="DEFENSA">
-      <data key="d0">BEHAVIOR</data>
-      <data key="d1">La defensa es un comportamiento instintivo que los reci&#233;n nacidos demuestran al intentar liberarse mediante mordiscos cuando son manipulados.</data>
-      <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d3">1</data>
-      <data key="d4">49</data>
-      <data key="d5">2c28b60dbc434f5590da6e264a7ee334</data>
-    </node>
-    <node id="LECHE MATERNA">
+    <node id="SISTEMA DENTARIO">
       <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
-      <data key="d1">La leche materna es el alimento que la madre proporciona a su cr&#237;a, que aparece poco despu&#233;s del parto y es densa y blanquecina.</data>
+      <data key="d1">El sistema dentario de la cr&#237;a est&#225; notablemente desarrollado al nacer, lo que es una particularidad de su precocidad.</data>
       <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d6">2</data>
+      <data key="d6">1</data>
       <data key="d7">0</data>
       <data key="d3">1</data>
-      <data key="d4">50</data>
-      <data key="d5">b7f3a5baf8b240fbb4acfe3e5fed69fa</data>
-    </node>
-    <node id="CICLO DE CELO">
-      <data key="d0">REPRODUCTION</data>
-      <data key="d1">El ciclo de celo es el periodo en el que la madre puede quedar fecundada nuevamente, que coincide con el alumbramiento y ocurre en menos de un mes despu&#233;s del parto.</data>
-      <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d6">2</data>
-      <data key="d7">0</data>
-      <data key="d3">1</data>
-      <data key="d4">51</data>
-      <data key="d5">5568a55250c84de793ce6e07c7822389</data>
+      <data key="d4">45</data>
+      <data key="d5">6882cc0a22a84fa8814ab6f58d88b08e</data>
     </node>
     <node id="BALIDO">
       <data key="d0" />
       <data key="d1" />
       <data key="d2">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d6">0</data>
+      <data key="d6">1</data>
       <data key="d7">0</data>
       <data key="d3">1</data>
-      <data key="d4">52</data>
-      <data key="d5">ba71dceefb3a4cf798769c7bb5b9a6ee</data>
+      <data key="d4">46</data>
+      <data key="d5">fd9e243a135c4053a9063d7dde1a7388</data>
     </node>
     <edge source="LOBOS MARINOS DE UNO Y DOS PELOS" target="OTARIA FLAVESCENS">
       <data key="d8">8.0</data>
-      <data key="d9">Los lobos marinos de uno y dos pelos incluyen a la especie Otaria flavescens, que es un ejemplo de esta categor&#237;a de pinn&#237;pedos</data>
+      <data key="d9">incluyen a la especie</data>
       <data key="d10">b33d3bfaaf265d4d79a602c29129a296</data>
-      <data key="d11">66bf304125b44e639cb4ab6b57c28ec7</data>
+      <data key="d11">bccc3b2e02e04627a4fc7bd2aace178f</data>
       <data key="d12">0</data>
       <data key="d13">0</data>
     </edge>
     <edge source="LOBOS MARINOS DE UNO Y DOS PELOS" target="ARCTOCEPHALUS AUSTRALIS">
       <data key="d8">8.0</data>
-      <data key="d9">Los lobos marinos de uno y dos pelos tambi&#233;n incluyen a Arctocephalus australis, que es otra especie de esta categor&#237;a</data>
+      <data key="d9">incluyen a la especie</data>
       <data key="d10">b33d3bfaaf265d4d79a602c29129a296</data>
-      <data key="d11">0b5214943b894ffea3489b33bff348a5</data>
+      <data key="d11">084e387c1c7d4ad1b77bb5a374350458</data>
       <data key="d12">1</data>
       <data key="d13">0</data>
     </edge>
     <edge source="ARCTOCEPHALUS AUSTRALIS" target="LOBOS MARINOS DE DOS PELOS">
-      <data key="d8">8.0</data>
-      <data key="d9">El lobo marino de dos pelos es representado por la especie Arctocephalus australis, que es un ejemplo de esta categor&#237;a de pinn&#237;pedos.</data>
+      <data key="d8">10.0</data>
+      <data key="d9">especie de</data>
       <data key="d10">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d11">a67bd576177d4e4fae1592eb41d64e1a</data>
+      <data key="d11">ad3ef3d141d945619044abeef8779f66</data>
       <data key="d12">2</data>
       <data key="d13">0</data>
     </edge>
     <edge source="ELEFANTES MARINOS" target="MIROUNGA LEONINAS">
-      <data key="d8">9.0</data>
-      <data key="d9">Los elefantes marinos, representados por la especie Mirounga leonina, son un ejemplo destacado de la categor&#237;a de pinn&#237;pedos. Esta especie es conocida por sus caracter&#237;sticas distintivas y su adaptaci&#243;n a ambientes marinos, donde desempe&#241;an un papel importante en el ecosistema. Mirounga leonina se caracteriza por su gran tama&#241;o y su comportamiento social, lo que la convierte en un objeto de estudio relevante en la ecolog&#237;a marina.</data>
-      <data key="d10">15d13c04808623d890ded925639b2fb3,b33d3bfaaf265d4d79a602c29129a296</data>
-      <data key="d11">b591c3fad7d34a3f86409b7191b057a3</data>
+      <data key="d8">1.0</data>
+      <data key="d9">representados por</data>
+      <data key="d10">b33d3bfaaf265d4d79a602c29129a296</data>
+      <data key="d11">759f674ae1174d9193f2bbe340352de1</data>
       <data key="d12">3</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="ELEFANTES MARINOS" target="CARACTER&#205;STICAS MORFOL&#211;GICAS">
-      <data key="d8">1.0</data>
-      <data key="d9">Las caracter&#237;sticas morfol&#243;gicas de los elefantes marinos incluyen su hocico trompudo y su gran tama&#241;o, que los distinguen de otras especies de pinn&#237;pedos.</data>
+    <edge source="ELEFANTES MARINOS" target="COLONIAS DE PINN&#205;PEDOS">
+      <data key="d8">9.0</data>
+      <data key="d9">habitan en</data>
       <data key="d10">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d11">9dd3f09048a541f788119e0fc86a9e4f</data>
+      <data key="d11">840a9b2d370d4989b16bc98536424c18</data>
       <data key="d12">4</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="ELEFANTES MARINOS" target="MORFOLOG&#205;A">
-      <data key="d8">8.0</data>
-      <data key="d9">La morfolog&#237;a de los elefantes marinos incluye un hocico trompudo y un gran tama&#241;o, que son caracter&#237;sticas distintivas de esta especie.</data>
+    <edge source="ELEFANTES MARINOS" target="MIROUNGA LEONINA">
+      <data key="d8">10.0</data>
+      <data key="d9">especie de</data>
       <data key="d10">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d11">c6e95747738c463eb9285b74cf096f3c</data>
+      <data key="d11">edd481063ab145c0badebdebdabdd079</data>
       <data key="d12">5</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="ELEFANTES MARINOS" target="CARNICERO">
-      <data key="d8">9.0</data>
-      <data key="d9">Los elefantes marinos son carniceros, lo que significa que su dieta se basa en la caza de otros animales marinos, un comportamiento com&#250;n en los pinn&#237;pedos.</data>
+    <edge source="ELEFANTES MARINOS" target="CARACTER&#205;STICAS MORFOL&#211;GICAS">
+      <data key="d8">8.0</data>
+      <data key="d9">describen a</data>
       <data key="d10">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d11">f39e34f1dc964055b95c5efacb99b6ca</data>
+      <data key="d11">6f67afcdd41048af9d11cde6dcda3743</data>
       <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="ELEFANTES MARINOS" target="ADAPTACI&#211;N A LA VIDA ACU&#193;TICA">
+      <data key="d8">1.0</data>
+      <data key="d9">caracter&#237;stica de</data>
+      <data key="d10">15d13c04808623d890ded925639b2fb3</data>
+      <data key="d11">9d79fdaa73494d958b5f49e44ed88768</data>
+      <data key="d12">7</data>
       <data key="d13">0</data>
     </edge>
     <edge source="COLONIAS DE PINN&#205;PEDOS" target="LOBOS MARINOS DE DOS PELOS">
       <data key="d8">9.0</data>
-      <data key="d9">Las colonias de pinn&#237;pedos incluyen a los lobos marinos de dos pelos, que se agrupan en estas &#225;reas para reproducirse y descansar.</data>
+      <data key="d9">habitan en</data>
       <data key="d10">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d11">22d9b20bebb34c5d89d401db95a938cd</data>
-      <data key="d12">7</data>
+      <data key="d11">95ba1e908c034d7db6c25ab285c221b8</data>
+      <data key="d12">8</data>
       <data key="d13">0</data>
     </edge>
     <edge source="COLONIAS DE PINN&#205;PEDOS" target="DISTRIBUCI&#211;N GEOGR&#193;FICA">
       <data key="d8">1.0</data>
-      <data key="d9">La distribuci&#243;n geogr&#225;fica de los pinn&#237;pedos est&#225; relacionada con la ubicaci&#243;n de sus colonias en el litoral mar&#237;timo e islas adyacentes.</data>
+      <data key="d9">define ubicaci&#243;n de</data>
       <data key="d10">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d11">d4d7f3c503e74c409c3d815215df24d8</data>
-      <data key="d12">8</data>
+      <data key="d11">94b7c4546a2b4e86bddc266748196b34</data>
+      <data key="d12">9</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="LOBOS MARINOS DE DOS PELOS" target="PABELL&#211;N AURICULAR EXTERNO">
-      <data key="d8">7.0</data>
-      <data key="d9">Los lobos marinos de dos pelos presentan un pabell&#243;n auricular externo rudimentario, lo que es una caracter&#237;stica morfol&#243;gica com&#250;n en los pinn&#237;pedos.</data>
+    <edge source="LOBOS MARINOS DE DOS PELOS" target="CARACTER&#205;STICAS MORFOL&#211;GICAS">
+      <data key="d8">8.0</data>
+      <data key="d9">describen a</data>
       <data key="d10">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d11">b781321662824936b217d5b3355f67ce</data>
-      <data key="d12">9</data>
+      <data key="d11">15fcacdcf12f4ef7830302c80d0da68c</data>
+      <data key="d12">10</data>
       <data key="d13">0</data>
     </edge>
     <edge source="LOBOS MARINOS DE DOS PELOS" target="PERSECUCI&#211;N CONSTANTE">
       <data key="d8">9.0</data>
-      <data key="d9">La persecuci&#243;n constante de los lobos marinos de dos pelos por su piel ha llevado a una disminuci&#243;n en su poblaci&#243;n, afectando su conservaci&#243;n.</data>
+      <data key="d9">afecta a</data>
       <data key="d10">15d13c04808623d890ded925639b2fb3</data>
-      <data key="d11">15707f49fbcc4b9a8ce7f46435b7a16d</data>
-      <data key="d12">10</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="PABELL&#211;N AURICULAR EXTERNO" target="ELEFANTE MARINO">
-      <data key="d8">7.0</data>
-      <data key="d9">La ausencia del pabell&#243;n auricular externo es una caracter&#237;stica distintiva del elefante marino en comparaci&#243;n con otros pinn&#237;pedos.</data>
-      <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">422e6d52f42245c3a1fd7bbba24e3188</data>
+      <data key="d11">ca324cda4e23439f8cb31b6f48cc0aad</data>
       <data key="d12">11</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="ELEFANTE MARINO" target="CONSERVACI&#211;N DE LA ESPECIE">
-      <data key="d8">9.0</data>
-      <data key="d9">La conservaci&#243;n de la especie de elefante marino es crucial debido a su tendencia a desaparecer de las costas, lo que implica regulaciones sobre su caza.</data>
-      <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">91fdae8b03664b049474e50aaa8f885a</data>
+    <edge source="MACHOS" target="HEMBRAS">
+      <data key="d8">8.0</data>
+      <data key="d9">diferencias morfol&#243;gicas</data>
+      <data key="d10">15d13c04808623d890ded925639b2fb3</data>
+      <data key="d11">acb33a50dc444cc0b0e03b376e232b97</data>
       <data key="d12">12</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="ELEFANTE MARINO" target="COLONIA DE F&#211;CIDOS">
-      <data key="d8">8.0</data>
-      <data key="d9">La colonia de f&#243;cidos es el h&#225;bitat donde se encuentran los elefantes marinos, siendo la &#250;nica conocida en la regi&#243;n.</data>
+    <edge source="ELEFANTE MARINO" target="COLONIA">
+      <data key="d8">9.0</data>
+      <data key="d9">ubicada en</data>
       <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">bd046d18ea324712a02b3a3fdba8d3ec</data>
+      <data key="d11">847f4141bf0047758202141cdc3426df</data>
       <data key="d12">13</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="LOBOS MARINOS DE UN PELO" target="NACIMIENTO">
-      <data key="d8">8.0</data>
-      <data key="d9">El nacimiento en los lobos marinos de un pelo es un proceso que involucra comportamientos espec&#237;ficos de la madre y la cr&#237;a durante y despu&#233;s del parto.</data>
+    <edge source="ELEFANTE MARINO" target="COSTAS E ISLAS ADYACENTES">
+      <data key="d8">9.0</data>
+      <data key="d9">habita en</data>
       <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">69f5faa77c2d4b7ca330b8732a285d4b</data>
+      <data key="d11">d02e220f77534aafbef26d7c16e00425</data>
       <data key="d12">14</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="LOBOS MARINOS DE UN PELO" target="PER&#205;ODO DE GESTACI&#211;N">
+    <edge source="ELEFANTE MARINO" target="PERMISO">
       <data key="d8">8.0</data>
-      <data key="d9">El per&#237;odo de gestaci&#243;n de los lobos marinos de un pelo es un aspecto importante de su reproducci&#243;n, que se extiende por aproximadamente 340 d&#237;as.</data>
+      <data key="d9">requiere para caza</data>
       <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">1240940e616740b8845d746d9f70fbc3</data>
+      <data key="d11">b5a0fa5135884a87ad9ad710aebef94a</data>
       <data key="d12">15</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="LOBOS MARINOS DE UN PELO" target="ALUMBRAMIENTOS">
-      <data key="d8">8.0</data>
-      <data key="d9">Los alumbramientos en los lobos marinos de un pelo ocurren en un per&#237;odo espec&#237;fico del a&#241;o, lo que est&#225; relacionado con su ciclo reproductivo.</data>
+    <edge source="LOBOS MARINOS DE UN PELO" target="NACIMIENTO">
+      <data key="d8">10.0</data>
+      <data key="d9">proceso de</data>
       <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">df6ed534bc564021897ce9f7c1bac579</data>
+      <data key="d11">e2f84065d0764c45aa231399a2144be3</data>
       <data key="d12">16</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="NACIMIENTO" target="MADRE">
-      <data key="d8">8.0</data>
-      <data key="d9">El nacimiento de la cr&#237;a marca el inicio del cuidado materno por parte de la madre, quien permanece a su lado.</data>
+    <edge source="LOBOS MARINOS DE UN PELO" target="ALUMBRAMIENTOS">
+      <data key="d8">9.0</data>
+      <data key="d9">proceso de</data>
       <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">bf3dc2620874466aac945e6bea8be6a1</data>
+      <data key="d11">f03ac76afab647f58cb666659787215d</data>
       <data key="d12">17</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="NACIMIENTO" target="CR&#205;A">
-      <data key="d8">1.0</data>
-      <data key="d9">El nacimiento es el momento en que la cr&#237;a llega al mundo y comienza su vida, siendo atendida por su madre.</data>
+    <edge source="LOBOS MARINOS DE UN PELO" target="EXCITABILIDAD">
+      <data key="d8">7.0</data>
+      <data key="d9">se manifiesta en</data>
       <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">a36fc969e994424ea5bcf13ea436cc85</data>
+      <data key="d11">8d4aa61092a6401c85db0b077a33baeb</data>
       <data key="d12">18</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="NACIMIENTO" target="PARTO">
-      <data key="d8">9.0</data>
-      <data key="d9">El nacimiento es el resultado del parto, que es un proceso cr&#237;tico en la reproducci&#243;n de los lobos marinos de un pelo.</data>
+    <edge source="LOBOS MARINOS DE UN PELO" target="C&#218;BITO-VENTRAL">
+      <data key="d8">6.0</data>
+      <data key="d9">posici&#243;n preferida en</data>
       <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">07af513c16014141bab9d90faec71383</data>
+      <data key="d11">9185ddf6d58d47869778bf420e93c4f9</data>
       <data key="d12">19</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="CR&#205;A" target="MADRE">
-      <data key="d8">20.0</data>
-      <data key="d9">La madre cuida de su cr&#237;a inmediatamente despu&#233;s del nacimiento, mostrando un comportamiento protector y de atenci&#243;n constante. Adem&#225;s, la madre transporta a su cr&#237;a y la amamanta, lo que refuerza su rol como cuidadora. Este comportamiento refleja la dedicaci&#243;n y el compromiso de la madre hacia el bienestar de su cr&#237;a, asegurando su supervivencia y desarrollo en el entorno marino.</data>
-      <data key="d10">71e57b98670eda5a84f77ea689e3b89c,da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">bde775d0eba14caf908f07654487235a</data>
+    <edge source="LOBOS MARINOS DE UN PELO" target="LAGRIMEO">
+      <data key="d8">1.0</data>
+      <data key="d9">signo de gravidez</data>
+      <data key="d10">da50bef77bffe645acbf974061b2183c</data>
+      <data key="d11">3cdc60ef105a463081412b370fa0751f</data>
       <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="NACIMIENTO" target="CR&#205;A">
+      <data key="d8">9.0</data>
+      <data key="d9">comienzo vida de</data>
+      <data key="d10">da50bef77bffe645acbf974061b2183c</data>
+      <data key="d11">15a49afb284c499393142462c6389eb1</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="NACIMIENTO" target="MADRE">
+      <data key="d8">1.0</data>
+      <data key="d9">marca el inicio de</data>
+      <data key="d10">da50bef77bffe645acbf974061b2183c</data>
+      <data key="d11">37df7293e2d14a7db3eff72cb2a2263a</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CR&#205;A" target="MADRE">
+      <data key="d8">30.0</data>
+      <data key="d9">CR&#205;A y MADRE son entidades interrelacionadas en el contexto de la reproducci&#243;n y el cuidado en el &#225;mbito marino. La CR&#205;A es el t&#233;rmino que se refiere a la descendencia, mientras que MADRE se refiere a la figura materna que desempe&#241;a un papel crucial en la vida de la CR&#205;A. La MADRE amamanta a la CR&#205;A, proporcion&#225;ndole la nutrici&#243;n necesaria para su desarrollo. Adem&#225;s, la MADRE cuida de la CR&#205;A, asegurando su protecci&#243;n y bienestar en el entorno marino. Tambi&#233;n se menciona que la MADRE transporta a la CR&#205;A, lo que sugiere un comportamiento activo en la movilidad y la b&#250;squeda de recursos, lo que es fundamental para la supervivencia de la descendencia en su h&#225;bitat. En conjunto, estas interacciones destacan la importancia del v&#237;nculo entre la MADRE y la CR&#205;A en el ecosistema marino, donde el cuidado parental es esencial para el &#233;xito reproductivo y la continuidad de las especies.</data>
+      <data key="d10">71e57b98670eda5a84f77ea689e3b89c,da50bef77bffe645acbf974061b2183c</data>
+      <data key="d11">dcb77248d5614cfa9f97c0ae3f2e8889</data>
+      <data key="d12">23</data>
       <data key="d13">0</data>
     </edge>
     <edge source="CR&#205;A" target="ALIMENTACI&#211;N">
       <data key="d8">9.0</data>
-      <data key="d9">La cr&#237;a comienza a buscar alimento instintivamente poco despu&#233;s de nacer, lo que est&#225; relacionado con su comportamiento de amamantamiento.</data>
+      <data key="d9">se basa en</data>
       <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">57773ca0784d402dbe340415fc49b508</data>
-      <data key="d12">21</data>
+      <data key="d11">5e0b4242dc9b44619fb99eff46350954</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CR&#205;A" target="LOBATO">
+      <data key="d8">6.0</data>
+      <data key="d9">intentos en el agua</data>
+      <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
+      <data key="d11">a71f5e694c4e43ff9ca17f912a0617aa</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="CR&#205;A" target="LOBEZNO">
+      <data key="d8">1.0</data>
+      <data key="d9">joven de</data>
+      <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
+      <data key="d11">6a862588a8f64608b8bf78921c9dd446</data>
+      <data key="d12">26</data>
       <data key="d13">0</data>
     </edge>
     <edge source="CR&#205;A" target="BALIDO">
       <data key="d8">8.0</data>
-      <data key="d9">La cr&#237;a emite balidos para comunicarse con su madre, lo que es un comportamiento importante en los primeros momentos tras el nacimiento.</data>
+      <data key="d9">emite</data>
       <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">d6936c76f1674809b2a1072309a27d1b</data>
-      <data key="d12">22</data>
+      <data key="d11">131116be6e2d477493900db061b69644</data>
+      <data key="d12">27</data>
       <data key="d13">0</data>
     </edge>
-    <edge source="MADRE" target="CUIDADO MATERNO">
-      <data key="d8">10.0</data>
-      <data key="d9">El cuidado materno es una actividad esencial que la madre realiza inmediatamente despu&#233;s del nacimiento, asegurando la supervivencia de la cr&#237;a.</data>
-      <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">d13532c9845a4a84a098e2efe0f2c914</data>
-      <data key="d12">23</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="MADRE" target="REUNI&#211;N CON CR&#205;AS">
-      <data key="d8">9.0</data>
-      <data key="d9">La madre utiliza el balido y la olfaci&#243;n para reunirse con su cr&#237;a, lo que demuestra la importancia de estos comportamientos en su relaci&#243;n.</data>
-      <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">38f5a896e4b14f4b9f0b94340baf8d07</data>
-      <data key="d12">24</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="MADRE" target="DOLOR">
+    <edge source="CR&#205;A" target="SISTEMA DENTARIO">
       <data key="d8">1.0</data>
-      <data key="d9">Los dolores del parto son una experiencia que la madre enfrenta durante el proceso de dar a luz a su cr&#237;a.</data>
-      <data key="d10">da50bef77bffe645acbf974061b2183c</data>
-      <data key="d11">4a3007bc72a74ac5b7b6b57f7e800769</data>
-      <data key="d12">25</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="MADRE" target="AMAMANTAMIENTO">
-      <data key="d8">10.0</data>
-      <data key="d9">La madre se dedica a amamantar a su cr&#237;a, lo que es una parte crucial de su cuidado durante los primeros meses de vida.</data>
+      <data key="d9">presenta</data>
       <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">37e778fe8d3945e693bae5edc7d17568</data>
-      <data key="d12">26</data>
+      <data key="d11">135c64657c9e4af99d3151edab05c59e</data>
+      <data key="d12">28</data>
       <data key="d13">0</data>
     </edge>
     <edge source="MADRE" target="PARTO">
       <data key="d8">8.0</data>
-      <data key="d9">El parto marca el inicio del cuidado materno, donde la madre comienza a amamantar a su cr&#237;a inmediatamente despu&#233;s del nacimiento.</data>
+      <data key="d9">marca el inicio de</data>
       <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">5f4ff08c876741a5b3e9291f0775925b</data>
-      <data key="d12">27</data>
+      <data key="d11">976ec98ec48c4c5cb6a833afab9abf03</data>
+      <data key="d12">29</data>
       <data key="d13">0</data>
     </edge>
     <edge source="MADRE" target="PUERPERIO">
       <data key="d8">7.0</data>
-      <data key="d9">La recuperaci&#243;n del puerperio es r&#225;pida, permitiendo a la madre reanudar su actividad sexual poco despu&#233;s del parto.</data>
+      <data key="d9">recuperaci&#243;n r&#225;pida</data>
       <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">67480cc0e6ea47a3b802a77be7e95dc0</data>
-      <data key="d12">28</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="MADRE" target="LECHE MATERNA">
-      <data key="d8">10.0</data>
-      <data key="d9">La madre proporciona leche materna a su cr&#237;a, que es esencial para su alimentaci&#243;n durante los primeros meses de vida.</data>
-      <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">1475b3fb9b774ff7918831cea176eb49</data>
-      <data key="d12">29</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="MADRE" target="CICLO DE CELO">
-      <data key="d8">7.0</data>
-      <data key="d9">El ciclo de celo de la madre se activa r&#225;pidamente despu&#233;s del parto, permitiendo que la hembra quede fecundada nuevamente en un corto periodo de tiempo.</data>
-      <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">2e26c2f9e60543f8b4b6971343de44bf</data>
+      <data key="d11">4b3cf8106fb346f9b2128eee22be9adb</data>
       <data key="d12">30</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="ALUMBRAMIENTOS" target="PARTO">
-      <data key="d8">1.0</data>
-      <data key="d9">El parto es el evento que da lugar a los alumbramientos, donde las cr&#237;as nacen y comienzan su vida.</data>
-      <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">f32179b12d0b4d5e9a69b8db109b2d14</data>
-      <data key="d12">31</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="PARTO" target="GESTACI&#211;N">
-      <data key="d8">9.0</data>
-      <data key="d9">La gestaci&#243;n de aproximadamente 340 d&#237;as culmina en el parto, que es el momento en que la cr&#237;a nace.</data>
-      <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">da5d805409bd41daa5c4d28bc724721c</data>
-      <data key="d12">32</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="LOBATO" target="LOBEZNO">
-      <data key="d8">8.0</data>
-      <data key="d9">El lobato es la cr&#237;a de lobo marino, y el t&#233;rmino lobezno se refiere a los j&#243;venes que pueden ser arrastrados al agua poco despu&#233;s de nacer.</data>
-      <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">77c8f6c9da6843bbb3415618d5d1085c</data>
-      <data key="d12">33</data>
-      <data key="d13">0</data>
-    </edge>
-    <edge source="LOBATO" target="DEFENSA">
-      <data key="d8">1.0</data>
-      <data key="d9">El lobato demuestra instintos de defensa poco despu&#233;s de nacer, tratando de liberarse mediante mordiscos cuando es manipulado.</data>
-      <data key="d10">71e57b98670eda5a84f77ea689e3b89c</data>
-      <data key="d11">b75c9e75eb274bd19200688c7774d708</data>
-      <data key="d12">34</data>
       <data key="d13">0</data>
     </edge>
   </graph>
