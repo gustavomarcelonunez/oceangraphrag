@@ -14,10 +14,10 @@ This project uses **GraphRAG** to digitize and structure book information into a
    ```bash
    git clone https://github.com/gustavomarcelonunez/oceangraphrag.git
    ```
-   Or using SSH:
+ <!--  Or using SSH:
    ```bash
-   <!--git clone git@github.com:gustavomarcelonunez/oceangraphrag.git-->
-   ```
+   git clone git@github.com:gustavomarcelonunez/oceangraphrag.git
+   ```-->
    Then navigate into the project directory:
    ```bash
    cd oceangraphrag
